@@ -1,0 +1,6 @@
+[0725/122103.895:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0725/122612.226:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0725/122653.482:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1123/125049.522:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1124/113353.648:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/141509.971:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

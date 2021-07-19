@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainMenuController.cs">
+    <Files>
+      <File FileName="Assets\Scipts\PickupRotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\amusedART\StoneMonster\Script\Animation_Test.cs" Line="1" Column="1" />
+      <File FileName="Assets\Xaxis_monster_movement_negative_to_positive.cs" Line="1" Column="1" />
+      <File FileName="Assets\Xaxis_Monster_Movement_positive_to_negative.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\Playercontroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\LightChangerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\AssetsTransfer.cs" Line="1" Column="1" />
+      <File FileName="Assets\MainMenuController.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
